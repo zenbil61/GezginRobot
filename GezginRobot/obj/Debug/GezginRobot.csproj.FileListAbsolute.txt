@@ -4,3 +4,6 @@ C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\bin\Debug\GezginRo
 C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\obj\Debug\GezginRobot.csprojResolveAssemblyReference.cache
 C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\obj\Debug\GezginRobot.exe
 C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\obj\Debug\GezginRobot.pdb
+C:\GitHub\GezginRobot\GezginRobot\bin\Debug\GezginRobot.exe.config
+C:\GitHub\GezginRobot\GezginRobot\obj\Debug\GezginRobot.exe
+C:\GitHub\GezginRobot\GezginRobot\obj\Debug\GezginRobot.pdb

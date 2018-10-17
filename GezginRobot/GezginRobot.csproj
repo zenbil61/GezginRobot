@@ -43,13 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Constant\MovementConstant.cs" />
-    <Compile Include="Model\Extension\PlanetExtension.cs" />
+    <Compile Include="Constant\DirectionConstant.cs" />
+    <Compile Include="Constant\MovementConstant.cs" />
+    <Compile Include="Extension\PlanetExtension.cs" />
+    <Compile Include="Extension\RobotExtension.cs" />
     <Compile Include="Model\Robot\BaseRobot.cs" />
-    <Compile Include="Model\Constant\DirectionConstant.cs" />
     <Compile Include="Model\Planet\Mars.cs" />
     <Compile Include="Model\Planet\Planet.cs" />
-    <Compile Include="Model\Extension\RobotExtension.cs" />
     <Compile Include="Model\Robot\Location.cs" />
     <Compile Include="Model\Robot\Robot.cs" />
     <Compile Include="Program.cs" />
