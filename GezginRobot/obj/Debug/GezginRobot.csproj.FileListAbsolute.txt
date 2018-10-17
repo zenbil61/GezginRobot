@@ -1,0 +1,6 @@
+C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\bin\Debug\GezginRobot.exe.config
+C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\bin\Debug\GezginRobot.exe
+C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\bin\Debug\GezginRobot.pdb
+C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\obj\Debug\GezginRobot.csprojResolveAssemblyReference.cache
+C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\obj\Debug\GezginRobot.exe
+C:\Users\02484490\Desktop\GezginRobot\GezginRobot\GezginRobot\obj\Debug\GezginRobot.pdb
